@@ -6,14 +6,6 @@ public class AdminPage {
 
 
 		System.out.println("Print statement");
-		System.out.println("Print statement");
-		System.out.println("Print statement");
-		System.out.println("Print statement");
 
-
-		System.out.println("Print statement");
-		System.out.println("Print statement");
-		System.out.println("Print statement");
-		System.out.println("Print statement");
 	}
 }
