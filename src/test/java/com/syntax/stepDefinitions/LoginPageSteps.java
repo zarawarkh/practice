@@ -19,6 +19,11 @@ public class LoginPageSteps {
 	public void orangehrm_logo_is_displayed() {
 		login = new LoginPage();
 		Assert.assertTrue(login.logo.isDisplayed());
+
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
 	}
 
 	@Test
