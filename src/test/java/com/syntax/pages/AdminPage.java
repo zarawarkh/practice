@@ -4,5 +4,16 @@ public class AdminPage {
 
 	public static void Print () {
 
+
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+
+
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
 	}
 }
