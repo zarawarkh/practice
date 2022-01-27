@@ -7,4 +7,10 @@ public class AdminPage {
 		System.out.println("Print statement");
 
 	}
+	
+	public static void Print2 () {
+
+		System.out.println("Print statement2");
+
+	}
 }
