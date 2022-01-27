@@ -10,4 +10,19 @@ public class AdminPage {
 		System.out.println("Print statement");
 
 	}
+
+	public static void Print2 () {
+
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+
+	}
+
+	public static void Print3 () {
+
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+		System.out.println("Print statement");
+
+	}
 }
